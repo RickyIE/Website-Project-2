@@ -2,7 +2,7 @@ body {
     font-family: Times New Roman, Arial; /*set a web safe font and a spare one*/
     color: whitesmoke; /* sets default colour of body text */
     font-size: large; /*sets default font size */
-    background-image: url(../Images/IndexPic1.jpg); /* Credit https://pixabay.com/illustrations/fractal-abstract-background-physics-1280077/ */
+    background-image: url(../images/IndexPic1.jpg); /* Credit https://pixabay.com/illustrations/fractal-abstract-background-physics-1280077/ */
     background-blend-mode: lighten; /*Lightens blend mode */
     line-height: 1.6em;/*Sets default text spacing */
     margin:0; /*Sets default margins */
@@ -29,7 +29,7 @@ a:hover{
     padding: 10px; /*Padding inside element */
     background-color: white; /*blending colour for element */
     background-blend-mode:normal; /*type of blend */
-    background-image: url(../Images/IndexPic1.jpg); /*Image free licence for use */
+    background-image: url(../images/IndexPic1.jpg); /*Image free licence for use */
 }
 .option1 { /*Class for first button sets options below */
     float: left; /*sets position to left */
@@ -56,7 +56,7 @@ a:hover{
     float: right;
     width: 40%;
     height: 500px;
-    background-image: url(../Images/IndexPic1.jpg); /*reuses the background picture again for the below effect*/
+    background-image: url(../images/IndexPic1.jpg); /*reuses the background picture again for the below effect*/
     background-blend-mode:difference;
     text-shadow: 0 0 20px whitesmoke;
     background-color: whitesmoke;
@@ -72,7 +72,7 @@ a:hover{
     width: 40%;
     height: 500px;
     padding: 10px;
-    background-image: url(../Images/IndexPic1.jpg);
+    background-image: url(../images/IndexPic1.jpg);
     background-blend-mode:difference;
     background-color: whitesmoke;
     color: black;
